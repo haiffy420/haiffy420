@@ -4,13 +4,13 @@ I am a full stack web developer with a passion for creating interactive and resp
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/git-black?&logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/react-black?&logo=react"/>
-  <img align="left" src="https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/PHP-black?&logo=php&logoColor=blue"/>
+  <img align="left" src="https://img.shields.io/badge/React-black?&logo=react"/>
+  <img align="left" src="https://img.shields.io/badge/Next-000000?&logo=nextdotjs&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Express-black?&logo=express&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Node.js-white?&logo=nodedotjs&logoColor=215732"/>
   <img align="left" src="https://img.shields.io/badge/MongoDB-white?&logo=mongodb&logoColor=4DB33D"/>
   <img align="left" src="https://img.shields.io/badge/Tailwind-white?&logo=tailwindcss&logoColor=blue"/>
-  <img align="left" src="https://img.shields.io/badge/PHP-white?&logo=php&logoColor=blue"/>
   <img align="left" src="https://img.shields.io/badge/Python-white?&logo=python&logoColor=blue"/>
   <br>
   <br>
