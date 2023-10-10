@@ -7,13 +7,21 @@ I am a full stack web developer with a passion for creating interactive and resp
   <img align="left" src="https://img.shields.io/badge/react-black?&logo=react"/>
   <img align="left" src="https://img.shields.io/badge/next.js-000000?&logo=nextdotjs&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Express-black?&logo=express&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Node.js-white?&logo=nodedotjs&logoColor=green"/>
-  <img align="left" src="https://img.shields.io/badge/MongoDB-white?&logo=mongodb&logoColor=green"/>
+  <img align="left" src="https://img.shields.io/badge/Node.js-white?&logo=nodedotjs&logoColor=215732"/>
+  <img align="left" src="https://img.shields.io/badge/MongoDB-white?&logo=mongodb&logoColor=4DB33D"/>
   <img align="left" src="https://img.shields.io/badge/Tailwind-white?&logo=tailwindcss&logoColor=blue"/>
   <img align="left" src="https://img.shields.io/badge/PHP-white?&logo=php&logoColor=blue"/>
-  <img align="left" src="https://img.shields.io/badge/Python-white?&logo=python&logoColor=black"/>
+  <img align="left" src="https://img.shields.io/badge/Python-white?&logo=python&logoColor=blue"/>
   <br>
   <br>
+  
+### Github Statistic
+<p align="left">
+<a href="https://github.com/haiffy420">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=haiffy420&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haiffy420&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 ### 🔍 You Can Find Me at 
 <p> 
