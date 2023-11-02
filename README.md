@@ -1,17 +1,25 @@
 # Hi there 👋
 ### My name is **Haifan Tri Buwono Joyo Pangestu**.
-I am a full stack web developer with a passion for creating interactive and responsive web applications. I have experience working with PHP, JavaScript, React, Next, Node.js, Express, MongoDB, HTML, Tailwind CSS, and Git. I also have knowledge in Machine Learning (Python). I am a quick learner and I am always looking to expand my knowledge and skill set. I am a team player and I am excited to work with others to create amazing applications.
+I am a full stack web developer with a passion for creating interactive and responsive web applications. I have experience working with PHP/Laravel, JavaScript, React, Next, Node.js, Express, MongoDB, HTML, Tailwind CSS, and Git. I also have knowledge in Machine Learning (Python). I am a quick learner and I am always looking to expand my knowledge and skill set. I am a team player and I am excited to work with others to create amazing applications.
 
 ### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/git-black?&logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/PHP-black?&logo=php&logoColor=blue"/>
+  <div>
+  <img align="left" src="https://img.shields.io/badge/Laravel-black?&logo=laravel"/>
   <img align="left" src="https://img.shields.io/badge/React-black?&logo=react"/>
   <img align="left" src="https://img.shields.io/badge/Next-000000?&logo=nextdotjs&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/Express-black?&logo=express&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Node.js-white?&logo=nodedotjs&logoColor=215732"/>
-  <img align="left" src="https://img.shields.io/badge/MongoDB-white?&logo=mongodb&logoColor=4DB33D"/>
-  <img align="left" src="https://img.shields.io/badge/Tailwind-white?&logo=tailwindcss&logoColor=blue"/>
-  <img align="left" src="https://img.shields.io/badge/Python-white?&logo=python&logoColor=blue"/>
+  </div>
+  <br>
+  <br>
+  <div>
+  <img align="left" src="https://img.shields.io/badge/Node.js-white?&logo=nodedotjs"/>
+  <img align="left" src="https://img.shields.io/badge/MongoDB-white?&logo=mongodb"/>
+  <img align="left" src="https://img.shields.io/badge/Tailwind-white?&logo=tailwindcss"/>
+  <img align="left" src="https://img.shields.io/badge/Python-white?&logo=python"/>
+  </div>
+  <br>
+  <br>
+  <img align="left" src="https://img.shields.io/badge/git-black?&logo=git&logoColor=white"/>
   <br>
   <br>
   
