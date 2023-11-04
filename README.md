@@ -7,19 +7,19 @@ I am a full stack web developer with a passion for creating interactive and resp
   <img align="left" src="https://img.shields.io/badge/Laravel-black?&logo=laravel"/>
   <img align="left" src="https://img.shields.io/badge/React-black?&logo=react"/>
   <img align="left" src="https://img.shields.io/badge/Next-000000?&logo=nextdotjs&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Express-black?&logo=express&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/TailwindCSS-black?&logo=tailwindcss"/>
   </div>
   <br>
   <br>
   <div>
   <img align="left" src="https://img.shields.io/badge/Node.js-white?&logo=nodedotjs"/>
   <img align="left" src="https://img.shields.io/badge/MongoDB-white?&logo=mongodb"/>
-  <img align="left" src="https://img.shields.io/badge/Tailwind-white?&logo=tailwindcss"/>
+  <img align="left" src="https://img.shields.io/badge/Express-white?&logo=express&logoColor=black"/>
   <img align="left" src="https://img.shields.io/badge/Python-white?&logo=python"/>
   </div>
   <br>
   <br>
-  <img align="left" src="https://img.shields.io/badge/git-black?&logo=git&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/git-black?&logo=git"/>
   <br>
   <br>
   
